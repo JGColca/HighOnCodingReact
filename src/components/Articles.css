@@ -1,0 +1,29 @@
+h2 {
+  color: #0465C0;
+  font-weight: normal;
+}
+
+.Article {
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+.commentLikeBar {
+  background-color: #F39017;
+  bottom: 1em;
+  padding: .3em;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.commentLikeBar p {
+  display: inline;
+  padding-right: 3em;
+}
+
+p {
+  margin: .1em;
+}
